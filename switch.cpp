@@ -26,4 +26,5 @@ int main(){
         cout << "El numero no esta en el rango" << endl;
         break;
     }
+    return 0;
 }
