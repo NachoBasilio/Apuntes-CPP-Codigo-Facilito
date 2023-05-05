@@ -4,8 +4,11 @@
 using namespace std;
 
 int main() {
-    int a = 5;
-    int b = 2;
+    int a, b;
+    cout << "Ingrese el valor de a" << endl;
+    cin >> a;
+    cout << "Ingrese el valor de b" << endl;
+    cin >> b;
     int c = a + b;
     int d = a - b;
     int e = a * b;
